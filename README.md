@@ -1,7 +1,7 @@
 Chromatic Selection
 ===================
 
-[![License: Artistic 2.0](https://img.shields.io/badge/license-artistic--2.0-green.svg)](http://opensource.org/licenses/Artistic-2.0)
+[![License: BSD-2](https://img.shields.io/badge/license-bsd-green.svg)](https://opensource.org/licenses/BSD-2-Clause)
 ![Language: go](https://img.shields.io/badge/language-go-blue.svg)
 ![Completed: 100%](https://img.shields.io/badge/completed-100%25-red.svg)
 
@@ -9,4 +9,4 @@ Chromatic Selection
 
 #### Copyright (c) 2014 Giovanni Squillero. All rights reserved.
 
-The code is provided under the [Artistic License 2.0](http://opensource.org/licenses/Artistic-2.0), which allows commercial and non-commercial use free of charge.
+The code is licensed under a [BSD license](https://opensource.org/licenses/BSD-2-Clause).
