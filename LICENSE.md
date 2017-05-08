@@ -1,5 +1,4 @@
-Copyright (c) 2017, Giovanni Squillero. 
-
+Copyright © 2014, Giovanni Squillero.  
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
