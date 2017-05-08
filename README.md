@@ -9,4 +9,4 @@ Chromatic Selection
 
 #### Copyright (c) 2014 Giovanni Squillero. All rights reserved.
 
-*Chromatic Selection* is provided under the [Artistic License 2.0](http://opensource.org/licenses/Artistic-2.0), which allows commercial and non-commercial use free of charge.
+The code is provided under the [Artistic License 2.0](http://opensource.org/licenses/Artistic-2.0), which allows commercial and non-commercial use free of charge.
