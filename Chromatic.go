@@ -5,15 +5,10 @@
 //  ###   \     //                                                          //
 //   ##G  c\    //   An Oversimplified approach to exploit comparison-based //
 //   #     _\   //   optimizers for commensurable multi-objective problems  //
-//   |  _/      //   See the paper @ EvoNUM <http://www.evostar.org/2015/>  //
+//   |  _/      //   https://github.com/squillero/chromatic                 //
 //              //                                                          //
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//
-// This code is free software; you can redistribute it and/or modify it
-// under the term of the Artistic License 2.0.
-// See <http://opensource.org/licenses/Artistic-2.0> for details.
-// Go to <https://bitbucket.org/squillero/chromatic> for the latest version,
-// and report bugs though the issue tracker.
-// Comments and criticisms (either constructive or not) are always welcomed!
+// This code is licensed under a BSD license
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//
 // VERSION HISTORY
 // - v0.1 : winter 2014
@@ -30,6 +25,7 @@ import (
 // CHROMATIC COMPARISON CORE
 // Notez bien: this code is *not* optimized (indeed, it should be considered
 // more pseudo-code, than code).
+// Comments and criticisms (either constructive or not) are welcomed
 
 func CCompare(fit1, fit2 []float64) int {
 	chroma := make([]float64, len(fit1))
