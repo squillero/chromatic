@@ -1,7 +1,7 @@
 Chromatic Selection
 ===================
 
-![Completed: 100%](https://img.shields.io/badge/completed-100%25-green.svg)
+![Status: Completed](https://img.shields.io/badge/status-completed-green.svg)
 [![License: BSD-2](https://img.shields.io/badge/license-bsd-green.svg)](https://opensource.org/licenses/BSD-2-Clause)
 ![Language: go](https://img.shields.io/badge/language-go-blue.svg)
 
