@@ -8,7 +8,7 @@ Chromatic Selection
 
 If you use it in your research, please cite:
 
-> Squillero G. (2015) Chromatic Selection – An Oversimplified Approach to Multi-objective Optimization. In: Mora A., Squillero G. (eds) Applications of Evolutionary Computation. EvoApplications 2015. Lecture Notes in Computer Science, vol 9028. Springer, Cham
+> Squillero G. (2015) "Chromatic Selection – An Oversimplified Approach to Multi-objective Optimization". In: Mora A., Squillero G. (eds) *Applications of Evolutionary Computation. EvoApplications 2015.* Lecture Notes in Computer Science, vol 9028. Springer, Cham
 
 **Copyright © 2014 Giovanni Squillero. All rights reserved.**
 
