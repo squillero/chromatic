@@ -8,4 +8,4 @@ Chromatic Selection
 
 **Copyright © 2014 Giovanni Squillero. All rights reserved.**
 
-The code is licensed under a [BSD license](/LICENSE.md).
+Chromatic Selection is made available under the [Simplified BSD License](/LICENSE.md).
