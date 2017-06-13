@@ -8,4 +8,4 @@ Chromatic Selection
 
 **Copyright © 2014 Giovanni Squillero. All rights reserved.**
 
-Redistribution and use in source and binary forms, with or without modification, are permitted under the terms of the [Simplified BSD License](/LICENSE.md).
+Redistribution and use in source and binary forms, with or without modification, are permitted under the terms of the [BSD 2-clause "Simplified" License](/LICENSE.md).
