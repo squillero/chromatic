@@ -3,7 +3,7 @@ Chromatic Selection
 
 [![License: BSD-2](https://img.shields.io/badge/license-bsd-green.svg)](/LICENSE.md)
 ![Language: go](https://img.shields.io/badge/language-go-blue.svg)
-![ga](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-28094298-5&cid=8d03e74d-a352-4fff-aa1f-9fbf213937d1&dp=https%3A%2F%2Fgithub.com%2Fsquillero%2Fchromatic)
+![ga](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-28094298-5&uid=007&dp=https%3A%2F%2Fgithub.com%2Fsquillero%2Fchromatic)
 
 *Chromatic Selection* is a simple technique that enables handling multi-value fitness functions with a single-objective evolutionary optimizer. It is problem independent, it requires no parameter tuning, and it can be used as a drop-in replacement for both parent and survival selections (DOI: [10.1007/978-3-319-16549-3_55](https://dx.doi.org/10.1007/978-3-319-16549-3_55)).
 
