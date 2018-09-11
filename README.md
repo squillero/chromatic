@@ -9,4 +9,4 @@ Chromatic Selection
 
 **Copyright © 2014 Giovanni Squillero.**
 
-This software and the associated documentation are licensed under the [MIT License](/LICENSE.md)..
+This software and the associated documentation are licensed under the [MIT License](/LICENSE.md).
