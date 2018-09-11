@@ -1,7 +1,7 @@
 Chromatic Selection
 ===================
 
-[![License: BSD-2](https://img.shields.io/badge/license-bsd-green.svg)](/LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/license-mit-green.svg)](/LICENSE.md)
 ![Language: go](https://img.shields.io/badge/language-go-blue.svg)
 ![](https://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-28094298-5&uid=666&dp=squillero%2Fchromatic)
 
