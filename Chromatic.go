@@ -8,7 +8,7 @@
 //   |  _/      //   https://github.com/squillero/chromatic                 //
 //              //                                                          //
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//
-// This code is licensed under the MIT license (see LICENSE.md)
+// Chromatic Selection is public domain (see LICENSE.md)
 //\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//\\//
 // VERSION HISTORY
 // - v0.1 : winter 2014
